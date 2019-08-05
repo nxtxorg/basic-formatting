@@ -2,7 +2,7 @@
     Author: Malte Rosenbjerg
     License: MIT */
 
-import { Package, INxtx } from '../nxtx';
+import { Package, INxtx } from '../nxtx-interface';
 declare const nxtx: INxtx;
 
 const style = document.createElement("style");
